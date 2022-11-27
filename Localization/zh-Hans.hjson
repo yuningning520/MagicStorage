@@ -472,7 +472,7 @@ Mods: {
 			# Minus100: "-100"
 			MaxStack: "设为最大"
 			Reset: "重置"
-			Amount: "当前制作数量: {0}"
+			Amount: "数量: {0}"
 		}
 
 		Search: "搜索"
